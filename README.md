@@ -1,4 +1,4 @@
-# TASK1-
+# TASK1- TASK2
 # 1. Check whether employee age is above 21 and salary is above 30000
 age = int(input("Enter age: "))
 salary = int(input("Enter salary: "))
